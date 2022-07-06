@@ -2,7 +2,7 @@
 
 # Technic Launcher
 
-If you're a fan of playing Minecraft with mods, then you'll definitely want to check out the Technic Launcher. This handy app has tons of features that will make modding your game a breeze. Here are some of the best things about the Technic Launcher.
+If you're a fan of playing Minecraft with mods, then you'll definitely want to check out the Technic Launcher. This handy app has tons of features that will make modding Minecraft a breeze. Here are some of the best things about the Technic Launcher.
 
 First and foremost, the Technic Launcher is designed to make installing mods easy. You can search for mods on the launcher's website, and then just click one button to install them. No more fiddling around with ZIP files or directories!
 
