@@ -12,6 +12,8 @@ The launcher also includes a handy mod pack manager. This lets you easily switch
 
 Another great feature of the Technic Launcher is its backup system.
 
+[![Technic Launcher on PC Windows](https://github.com/technic-launcher/technic-launcher.github.io/blob/main/Technic-Launcher.jpg?raw=true)](https://minecraftsync.com/get-tlauncher-pc)
+
 ## Easily install modpacks
 
 Technic Launcher is a program used to install and manage modpacks for the popular sandbox game Minecraft. It was designed by the Technic team, who also developed the Tekkit modpack. The launcher requires Java 7 or later to run.
