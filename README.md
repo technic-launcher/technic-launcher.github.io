@@ -1,3 +1,5 @@
+<head> <link rel="shortcut icon" type="image/x-icon" href="mc.ico"></head>
+
 # Technic Launcher
 
 If you're a fan of playing Minecraft with mods, then you'll definitely want to check out the Technic Launcher. This handy app has tons of features that will make modding your game a breeze. Here are some of the best things about the Technic Launcher.
